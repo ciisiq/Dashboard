@@ -12,7 +12,7 @@ body {
     background-color: ${colors.lightpink};
 }
 
-p, button, b, strong, input {
+p, button, b, strong, input, time {
  font-family: 'Roboto', sans-serif;
 }
 `;
